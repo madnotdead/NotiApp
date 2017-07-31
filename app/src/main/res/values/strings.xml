@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotiApp</string>
+    <string name="news_image_cd">News image</string>
+    <string name="source_image_cd">Source image</string>
+</resources>
