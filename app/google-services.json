@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "37678178504",
+    "firebase_url": "https://notiapp-309b7.firebaseio.com",
+    "project_id": "notiapp-309b7",
+    "storage_bucket": "notiapp-309b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37678178504:android:e5ff2cdc3f56e7b9",
+        "android_client_info": {
+          "package_name": "com.apps.madnotdead.notiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37678178504-sosaalnbm8jkq64gi8o89edg96qana9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.madnotdead.notiapp",
+            "certificate_hash": "32ec279ea188e8d2e6ab6b09cb3a62cad77cbc43"
+          }
+        },
+        {
+          "client_id": "37678178504-hfmdbra6eitj3jr2dla5kk9d20s05afq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXuL2Zlelm0MXWH0ZwxMYAATrIB3eEcMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37678178504-hfmdbra6eitj3jr2dla5kk9d20s05afq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
